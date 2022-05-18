@@ -1,2 +1,2 @@
 # react-translate
-Created with CodeSandbox
+React app to translate text into different languages
